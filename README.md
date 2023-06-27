@@ -1,2 +1,0 @@
-# SRKR
-Srkr Fullstack
